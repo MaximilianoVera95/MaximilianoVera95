@@ -5,7 +5,7 @@ Hola, Soy **Héctor Maximiliano Vera**, **Estudiante de Ingeniería Electrónica
 ### Talking about Personal Stuffs:
 
 - 👨🏽‍💻 Actualmente estoy en el 6to año de Ingeniería Electrónica en la UTN de Córdoba; 
-- 🤔 Me interesa la programación en c,c++,php,sql;
+- 🤔 Me interesa la programación en c, c++, php, sql;
 - 💼 Integro un grupo de Investigación en la UTN, GInTEA (Grupo de Investigación y Transferencia en Electrónica Avanzada);
 - 💬 Estoy a disposición de cualquier duda que surja; 
 - 📫 Por favor envíeme un correo electrónico si tiene alguna pregunta.
