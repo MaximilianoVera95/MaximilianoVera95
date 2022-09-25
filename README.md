@@ -30,6 +30,6 @@ Hola, Soy **Héctor Maximiliano Vera**, **Estudiante de Ingeniería Electrónica
 
 ### My GitHub Stats
 
-![L1cardo's github stats](https://github-readme-stats.vercel.app/api?username=L1cardo&show_icons=true)
+![Maximiliano's github stats](https://github-readme-stats.vercel.app/api?username=MaximilianoVera95&show_icons=true)
 
-⭐️ From [L1cardo](https://github.com/L1cardo)
+⭐️ From [Héctor Maximiliano Vera](https://github.com/MaximilianoVera95)
