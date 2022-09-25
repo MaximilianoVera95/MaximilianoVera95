@@ -1,16 +1,14 @@
 ## Hey 👋, I'm Héctor Maximiliano Vera
 
-Hi there, I'm **Héctor Maximiliano Vera**, a **Estudiante avanzado de Ingeniería Electrónica**.
-
-I love programming and I love Swift.
+Hola, Soy **Héctor Maximiliano Vera**, **Estudiante de Ingeniería Electrónica**.
 
 ### Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently a medical student at my 4th year; 
-- 🤔 My interests are with iOS and macOS programming, AI in medical, Python etc..;
-- 💼 I’m pursuing a Bachelor's degree in Medical Imaging;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email me if you have any questions.
+- 👨🏽‍💻 Actualmente estoy en el 6to año de Ingeniería Electrónica en la UTN de Córdoba; 
+- 🤔 Me interesa la programación en c,c++,php,sql;
+- 💼 Integro un grupo de Investigación en la UTN, GInTEA (Grupo de Investigación y Transferencia en Electrónica Avanzada);
+- 💬 Estoy a disposición de cualquier duda que surja; 
+- 📫 Por favor envíeme un correo electrónico si tiene alguna pregunta.
 
 ### Languages and Tools:
 
