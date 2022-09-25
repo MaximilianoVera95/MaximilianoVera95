@@ -25,7 +25,7 @@ Hola, Soy **Héctor Maximiliano Vera**, **Estudiante de Ingeniería Electrónica
 
 - Facebook: [![website](https://img.shields.io/badge/https://www.facebook.com/maxi.vera.9277-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://www.facebook.com/maxi.vera.9277)
 - Instagram: [![Instagram](https://img.shields.io/badge/www.instagram.com/maximiliano.vera.9277-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://www.instagram.com/maximiliano.vera.9277/) 
-- Weibo: [![Weibo](https://img.shields.io/badge/@Albert__Abdilim-E6162D?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/1935602951)
+- Instagram: [![Instagram](https://img.shields.io/badge/www.instagram.com/maximiliano.vera.9277-E6162D?style=flat-square&logo=sina-weibo&logoColor=white)]([https://weibo.com/1935602951](https://www.instagram.com/maximiliano.vera.9277/))
 - Email: [![Email](https://img.shields.io/badge/maximiliano1995utn@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maximiliano1995utn@gmail.com)
 
 ### My GitHub Stats
