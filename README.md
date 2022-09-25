@@ -17,7 +17,7 @@ Hola, Soy **Héctor Maximiliano Vera**, **Estudiante de Ingeniería Electrónica
 ![sql](https://img.shields.io/badge/sql-1575F9?style=flat-square&logo=Xcode&logoColor=white)
 ![c](https://img.shields.io/badge/c-999999?style=flat-square&logo=Apple&logoColor=white)
 ![c++](https://img.shields.io/badge/c++-3776AB?style=flat-square&logo=Python&logoColor=white)
-![plc lader](https://img.shields.io/badge/plc lader-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![plc lader](https://img.shields.io/badge/plcLader-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=Microsoft-Edge&logoColor=white)
 
