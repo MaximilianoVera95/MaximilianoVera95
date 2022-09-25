@@ -28,24 +28,8 @@ Hola, Soy **Héctor Maximiliano Vera**, **Estudiante de Ingeniería Electrónica
 - Instagram: [![Instagram](https://img.shields.io/badge/www.instagram.com/maximiliano.vera.9277-E6162D?style=flat-square&logo=sina-weibo&logoColor=white)]([https://weibo.com/1935602951](https://www.instagram.com/maximiliano.vera.9277/))
 - Email: [![Email](https://img.shields.io/badge/maximiliano1995utn@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maximiliano1995utn@gmail.com)
 
-<br/>
+### My GitHub Stats
 
----
+![MaximilianoVera95's github stats](https://github-readme-stats.vercel.app/api?username=MaximilianoVera95&show_icons=true)
 
-<br/>
-
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bgstatic&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=react&line_height=40&hide=css"/>
-    </a>
-</div
-  
-<br/>
-
----
-⭐️ From [Héctor Maximiliano Vera](https://github.com/MaximilianoVera95)
+⭐️ From [MaximilianoVera95](https://github.com/MaximilianoVera95)
