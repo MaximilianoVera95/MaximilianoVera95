@@ -30,15 +30,10 @@ Hola, Soy **Héctor Maximiliano Vera**, **Estudiante de Ingeniería Electrónica
 
 ### My GitHub Stats
 
-![MaximilianoVera95's github stats](https://github-readme-stats.vercel.app/api?username=MaximilianoVera95&show_icons=true)
-
-⭐️ From [MaximilianoVera95](https://github.com/MaximilianoVera95)
-
-
-**Github Stats:**
-
-<p align="center">
+<p align="left">
   
   <img src="https://github-readme-stats.vercel.app/api?username=MaximilianoVera95&hide=stars&show_icons=true&line_height=32">
   
 </p>
+
+⭐️ From [MaximilianoVera95](https://github.com/MaximilianoVera95)
