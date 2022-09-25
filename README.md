@@ -48,7 +48,4 @@ Hola, Soy **Héctor Maximiliano Vera**, **Estudiante de Ingeniería Electrónica
 <br/>
 
 ---
-
- ### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
-
 ⭐️ From [Héctor Maximiliano Vera](https://github.com/MaximilianoVera95)
