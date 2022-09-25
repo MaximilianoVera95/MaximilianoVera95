@@ -8,7 +8,7 @@ Hola, Soy **Héctor Maximiliano Vera**, **Estudiante de Ingeniería Electrónica
 - 🤔 Me interesa la programación en c, c++, php, sql;
 - 💼 Integro un grupo de Investigación en la UTN, GInTEA (Grupo de Investigación y Transferencia en Electrónica Avanzada);
 - 💬 Estoy a disposición de cualquier duda que surja; 
-- 📫 Por favor envíeme un correo electrónico si tiene alguna pregunta.
+- 📫 Por favor envíeme un mensaje por medio de los contactos que aqui se muestran por si tiene alguna pregunta.
 
 ### Languages and Tools:
 
