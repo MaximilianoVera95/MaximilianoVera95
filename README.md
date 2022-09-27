@@ -32,7 +32,7 @@ Hola, Soy **Héctor Maximiliano Vera**, **Estudiante de Ingeniería Electrónica
 
 <p align="left">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=MaximilianoVera95&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaximilianoVera95/Proyecto_Fermentum&hide=stars&show_icons=true&theme=dracula&line_height=32">
   
 </p>
 
