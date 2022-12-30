@@ -1,10 +1,10 @@
 ## Hey 👋, I'm Héctor Maximiliano Vera
 
-Hola, Soy **Héctor Maximiliano Vera**, **Estudiante de Ingeniería Electrónica**.
+Hola, Soy **Héctor Maximiliano Vera**, **Ingeniero Electrónico**.
 
 ### Talking about Personal Stuffs:
 
-- 👨🏽‍💻 Actualmente estoy cursando el 6to año de Ingeniería Electrónica en la UTN de Córdoba; 
+- 👨🏽‍💻 Estudié Ingeniería Electrónica en la UTN de Córdoba; 
 - 🤔 Me interesa la programación en c, c++, php, sql;
 - 💼 Integro un grupo de Investigación en la UTN, GInTEA (Grupo de Investigación y Transferencia en Electrónica Avanzada);
 - 💬 Estoy a disposición de cualquier duda que surja; 
